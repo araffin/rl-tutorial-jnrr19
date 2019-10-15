@@ -14,11 +14,11 @@ This tutorial was created by [Edward Beeching](https://github.com/edbeeching), [
 
 ## Content
 
-1. Getting Started
-2. Saving/loading/callbacks
-3. Multiprocessing
-4. Wrappers and hyperparameter tuning
-5. Creating a custom gym environment
+1. Getting Started [Colab Notebook](https://colab.research.google.com/github/araffin/rl-tutorial-jnrr19/blob/master/1_getting_started.ipynb)
+2. Saving/loading/callbacks [Colab Notebook](https://colab.research.google.com/github/araffin/rl-tutorial-jnrr19/blob/master/2_callbacks_saving_loading.ipynb)
+3. Multiprocessing [Colab Notebook](https://colab.research.google.com/github/araffin/rl-tutorial-jnrr19/blob/master/3_multiprocessing.ipynb)
+4. Wrappers and hyperparameter tuning [Colab Notebook](https://colab.research.google.com/github/araffin/rl-tutorial-jnrr19/blob/master/4_gym_wrappers.ipynb)
+5. Creating a custom gym environment [Colab Notebook](https://colab.research.google.com/github/araffin/rl-tutorial-jnrr19/blob/master/5_custom_gym_env.ipynb)
 
 ## Bonus
 
