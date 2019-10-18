@@ -4,6 +4,8 @@ Stable-Baselines reinforcement learning tutorial for Journées Nationales de la 
 
 Website: https://jnrr2019.loria.fr/
 
+Slides: https://araffin.github.io/slides/rl-tuto-jnrr19/#/
+
 Stable-Baselines repo: https://github.com/hill-a/stable-baselines
 
 Documentation: https://stable-baselines.readthedocs.io/en/master/
