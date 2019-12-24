@@ -25,3 +25,7 @@ This tutorial was created by [Edward Beeching](https://github.com/edbeeching), [
 ## Bonus
 
 RL baselines zoo: [Colab Notebook](https://colab.research.google.com/github/Stable-Baselines-Team/rl-colab-notebooks/blob/master/rl-baselines-zoo.ipynb)
+
+## Contributors
+
+We would like to thanks our contributors: [@rbahumi](https://github.com/rbahumi) [@stefanbschneider](https://github.com/stefanbschneider)
